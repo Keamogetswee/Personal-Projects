@@ -5,4 +5,4 @@ To view the site live:
 
 # A Blog Website
 To view the site live:
-https://keamogetswee.github.io/Personal-Projects/
+https://keamogetswee.github.io/Personal-Projects/Blog
